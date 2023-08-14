@@ -1,2 +1,2 @@
 # TechFolio
-HTML,CSS学習で作成したポートフォリオ
+HTML,CSS学習で作成したポートフォリオトップページ
